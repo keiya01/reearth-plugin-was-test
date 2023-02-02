@@ -1,0 +1,7 @@
+id: reearth-plugin-was-test
+name: Testing for Widget Align System
+version: 1.0.1
+extensions:
+  - id: was-test
+    type: widget
+    name: WAS Testing
